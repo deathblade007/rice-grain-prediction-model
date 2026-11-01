@@ -63,3 +63,4 @@ rice-grain-prediction-model/
 ├── requirements.txt        # Python dependencies
 ├── .gitignore
 ├── README.md               # Project documentation
+```
